@@ -101,3 +101,13 @@
 [15:29:29] [Server thread/INFO]: Snahzr78[/100.101.77.98:58684] logged in with entity id 40731 at (139.95297468415623, 63.0, -710.5997693061544)
 [15:29:29] [Server thread/INFO]: Snahzr78 joined the game
 [15:30:53] [Server thread/INFO]: Snahzr78 has made the advancement [Acquire Hardware]
+[15:34:58] [Server thread/INFO]: Villager class_1646['Farmer'/38690, l='ServerLevel[world]', x=153.50, y=62.05, z=-724.70] died, message: 'Farmer drowned'
+[15:35:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=70, y=63, z=-729} class_2338{x=69, y=62, z=-726}
+[15:35:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=70, y=63, z=-729} class_2338{x=69, y=62, z=-726}
+[15:35:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=70, y=63, z=-729} class_2338{x=69, y=62, z=-726}
+[15:35:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=70, y=63, z=-729} class_2338{x=69, y=62, z=-726}
+[15:38:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=152, y=65, z=-740} class_2338{x=152, y=63, z=-739}
+[15:39:12] [Server thread/INFO]: ItsXiga lost connection: Disconnected
+[15:39:12] [Server thread/INFO]: ItsXiga left the game
+[15:39:25] [Server thread/INFO]: Fabrimrg lost connection: Disconnected
+[15:39:25] [Server thread/INFO]: Fabrimrg left the game
