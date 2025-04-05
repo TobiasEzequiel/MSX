@@ -1,5 +1,17 @@
 [
   {
+    "uuid": "d13cdb2e-74e6-4600-b74d-3dcd7e5466df",
+    "name": "ItsXiga",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "29cd3061-ff92-40fd-9783-71b2be5d28f6",
+    "name": "Fabrimrg",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "7b5b4626-8865-42c4-8774-80cf21647272",
     "name": "Snahzr78",
     "level": 4,
