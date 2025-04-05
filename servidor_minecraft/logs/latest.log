@@ -62,3 +62,42 @@
 [14:55:57] [Server thread/INFO]: Fabrimrg joined the game
 [15:08:10] [Server thread/INFO]: Fabrimrg has made the advancement [Ice Bucket Challenge]
 [15:08:28] [Server thread/INFO]: Snahzr78 was shot by Skeleton
+[15:16:08] [User Authenticator #5/INFO]: UUID of player ItsXiga is d13cdb2e-74e6-4600-b74d-3dcd7e5466df
+[15:16:10] [Server thread/INFO]: ItsXiga[/100.123.80.1:62754] logged in with entity id 35259 at (-3861.460837488096, 69.0, -1988.9818374933636)
+[15:16:10] [Server thread/INFO]: ItsXiga joined the game
+[15:16:12] [Server thread/INFO]: Snahzr78 was slain by Zombie
+[15:17:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:17:18] [Server thread/INFO]: todos putos<--[HERE]
+[15:17:45] [Server thread/INFO]: You whisper to Fabrimrg: sos re putito
+[15:18:08] [Server thread/INFO]: ItsXiga was blown up by Creeper
+[15:19:04] [Server thread/INFO]: <Fabrimrg> 150 -700
+[15:19:50] [Server thread/INFO]: Fabrimrg lost connection: Disconnected
+[15:19:50] [Server thread/INFO]: Fabrimrg left the game
+[15:20:39] [Server thread/INFO]: [ItsXiga: Set own game mode to Creative Mode]
+[15:20:48] [Server thread/INFO]: [ItsXiga: Set own game mode to Survival Mode]
+[15:20:51] [Server thread/INFO]: [ItsXiga: Set own game mode to Creative Mode]
+[15:20:55] [Server thread/INFO]: [ItsXiga: Set own game mode to Survival Mode]
+[15:21:36] [Server thread/INFO]: [Snahzr78: Teleported ItsXiga to 150.500000, 66.000000, -699.500000]
+[15:22:00] [Server thread/INFO]: [Snahzr78: Teleported Snahzr78 to 150.500000, 66.000000, -699.500000]
+[15:22:33] [Server thread/INFO]: ItsXiga lost connection: Disconnected
+[15:22:33] [Server thread/INFO]: ItsXiga left the game
+[15:25:30] [User Authenticator #6/INFO]: UUID of player Fabrimrg is 29cd3061-ff92-40fd-9783-71b2be5d28f6
+[15:25:31] [Server thread/INFO]: Fabrimrg[/100.116.22.110:61907] logged in with entity id 39531 at (159.526335552816, 64.0, -719.2375000119209)
+[15:25:31] [Server thread/INFO]: Fabrimrg joined the game
+[15:25:57] [User Authenticator #7/INFO]: UUID of player ItsXiga is d13cdb2e-74e6-4600-b74d-3dcd7e5466df
+[15:25:57] [Server thread/INFO]: Snahzr78 lost connection: Disconnected
+[15:25:57] [Server thread/INFO]: Snahzr78 left the game
+[15:25:58] [Server thread/INFO]: ItsXiga[/100.123.80.1:63003] logged in with entity id 39794 at (154.1169193068519, 63.0, -616.4974859788739)
+[15:25:58] [Server thread/INFO]: ItsXiga joined the game
+[15:25:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=191, y=64, z=-732} class_2338{x=190, y=63, z=-734}
+[15:26:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=183, y=64, z=-730} class_2338{x=182, y=62, z=-729}
+[15:26:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=169, y=64, z=-722} class_2338{x=168, y=63, z=-722}
+[15:26:41] [User Authenticator #8/INFO]: UUID of player Snahzr78 is 7b5b4626-8865-42c4-8774-80cf21647272
+[15:26:44] [Server thread/INFO]: Snahzr78[/100.101.77.98:58507] logged in with entity id 40041 at (139.95297468415623, 63.0, -710.5997693061544)
+[15:26:44] [Server thread/INFO]: Snahzr78 joined the game
+[15:26:50] [Server thread/INFO]: Snahzr78 lost connection: Disconnected
+[15:26:50] [Server thread/INFO]: Snahzr78 left the game
+[15:29:27] [User Authenticator #9/INFO]: UUID of player Snahzr78 is 7b5b4626-8865-42c4-8774-80cf21647272
+[15:29:29] [Server thread/INFO]: Snahzr78[/100.101.77.98:58684] logged in with entity id 40731 at (139.95297468415623, 63.0, -710.5997693061544)
+[15:29:29] [Server thread/INFO]: Snahzr78 joined the game
+[15:30:53] [Server thread/INFO]: Snahzr78 has made the advancement [Acquire Hardware]
