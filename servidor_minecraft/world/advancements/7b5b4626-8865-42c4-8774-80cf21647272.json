@@ -414,6 +414,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-05 14:38:58 +0000",
       "minecraft:zombie": "2025-04-02 15:01:07 +0000",
       "minecraft:creeper": "2025-04-02 15:03:19 +0000"
     },
@@ -488,6 +489,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2025-04-02 15:02:10 +0000",
+      "melon_slice": "2025-04-05 14:41:47 +0000",
       "porkchop": "2025-04-02 15:02:59 +0000"
     },
     "done": false
@@ -630,6 +632,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-05 14:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-05 14:37:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-04-05 14:28:42 +0000"
@@ -660,15 +674,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-05 14:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-05 14:39:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-05 14:26:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-05 14:38:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-04-05 14:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-05 14:41:41 +0000"
     },
     "done": true
   },
